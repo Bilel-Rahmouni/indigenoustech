@@ -1,0 +1,11 @@
+.logo {
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: var(--color-muted);
+}
+
+.logo__dot {
+  color: var(--color-mint);
+}
